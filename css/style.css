@@ -218,6 +218,9 @@ p{
 .social{margin-top:30px}
 .social li{display:inline-block; padding:0 5px}
 .social li a{font-size: 30px;}
+.social li a:hover{
+  color:#00c7fa;
+}
 .footer-left p a img{margin-right:5px; }
 .footer-right input[type=text]{height:34px; width:100%; border-radius: 5px;}
 .footer-right input[type=submit]{height:34px; width:100%;}
