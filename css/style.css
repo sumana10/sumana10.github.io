@@ -262,6 +262,10 @@ p{
   opacity: 0.8;
   color: #fff;
 }
+.copyright{
+  text-align:center; 
+  font-weight:bold;
+}
 /* media query */
 
 @media screen and (max-width:767px){
